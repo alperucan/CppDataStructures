@@ -1,3 +1,9 @@
 ### You can compile with this command
+>[!TIP]
+>Some basic compile commands are:
 
-`g++ Main.cpp -o program`
+```
+cd Stacks
+g++ Main.cpp -o program
+```
+
