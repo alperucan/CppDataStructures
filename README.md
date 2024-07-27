@@ -1,13 +1,14 @@
-### You can compile with this command
+### You can compile and run with this command
 
 > [!NOTE]
 > Every Data Structure has different main function, so you should enter their directories.
 
 >[!TIP]
->Some basic compile commands are:
+>Some basic compile and run commands are:
 
 ```
 cd Stacks
 g++ Main.cpp -o program
+.\program.exe
 ```
 
